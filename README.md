@@ -1,6 +1,8 @@
-**the best shopping list coded by _SYS113_**
+**the best shopping list by _SYS113_**
 
-**demo : https://asciinema.org/a/rSzFYeN7cxb98XuoTqxiNpw6b**
+![](http://s8.picofile.com/file/8322178884/SYS113.png?raw=true "Title")
+
+**please see demo : https://asciinema.org/a/rSzFYeN7cxb98XuoTqxiNpw6b**
 
 **run ... :D**
   - *git clone https://github.com/sys113/shopping-list.git*
