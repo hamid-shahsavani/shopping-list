@@ -3,5 +3,11 @@
 **demo : https://asciinema.org/a/rSzFYeN7cxb98XuoTqxiNpw6b**
 
 **run ... :D**
-  - git clone
-  - p
+  - git clone https://github.com/sys113/shopping-list.git
+  - cd shopping-list
+  - sudo pip3 install -r SYS113.txt
+  - python3 shoppinglist.py
+  
+**contact me**
+  - mail : SYS113@protonmail.com 
+  - telegram : @SYS113
