@@ -3,5 +3,5 @@
 **demo : https://asciinema.org/a/rSzFYeN7cxb98XuoTqxiNpw6b**
 
 **run ... :D**
-  - pip in
+  - git clone
   - p
