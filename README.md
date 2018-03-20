@@ -8,7 +8,9 @@
   - *connect to the internet*
   - *sudo pip3 install -r SYS113.txt*
   - *python3 shoppinglist.py*
-  
+
+**tip : The shoppinglist.py runs only on *GNU/Linux ***
+
 **contact me**
   - *mail : SYS113@protonmail.com* 
   - *telegram : @SYS113*
