@@ -46,7 +46,7 @@ home = os.path.expanduser('~')
 homeee = home + '/.SYS113/'
 dirme = home + '/Desktop/'
 # ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-url = 'https://instaud.io/_/1VwH.mp3'
+url = 'https://github.com/sys113/shopping-list/raw/master/SYS113.mp3'
 fileName = '%sSYS113.mp3'%(homeee)
 req = requests.get(url)
 file = open(fileName, 'wb')
