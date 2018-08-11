@@ -180,7 +180,7 @@ while True:
       print(color.BOLD + color.GREEN + '\t\t\t\t\t\t      ' + '|\t\t\t\t      |')
       print(color.BOLD + color.GREEN + '\t\t\t\t\t\t      ' + '|  ' + color.RED + 'github' + color.YELLOW + ' : ' + color.BLUE + 'github.com/SYS113/' + color.GREEN + '  |'  + color.END)
       print(color.BOLD + color.GREEN + '\t\t\t\t\t\t      ' + '|\t\t\t\t      |')
-      print(color.BOLD + color.GREEN + '\t\t\t\t\t\t      ' + '| ' + color.RED + 'mail' + color.YELLOW + ' : ' + color.BLUE + 'SYS113@protonmail.com' + color.GREEN + '  |'  + color.END)
+      print(color.BOLD + color.GREEN + '\t\t\t\t\t\t      ' + '| ' + color.RED + 'mail' + color.YELLOW + ' : ' + color.BLUE + '051.SYS113@gmail.com' + color.GREEN + '  |'  + color.END)
       print(color.BOLD + color.GREEN + '\t\t\t\t\t\t      ' + '|\t\t\t\t      |')
       print(color.BOLD + color.GREEN + '\t\t\t\t\t\t      ' + '-='*16 + '-\n' + color.END)
 # =====================================================================================================================================================================
